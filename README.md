@@ -1,3 +1,5 @@
 # hello-world
 First Repository
-I have 43 years i am a Chemical engineer.
+I am 43 years old I am a chemical engineer.
+I live in the land of tacos.
+
